@@ -55,3 +55,18 @@ inner join tbrestaurant
 inner join tbdelivery
 	on tbdelivery.orderId = tb_order_details.orderId
 group by nameRestaurant
+
+/*clientes que solicitaram reembolso/estorno*/
+select costumerId AS 'Código do Cliente', 
+	   refunds_or_chargeback AS 'Valor do estorno' from tb_order_details
+where refunds_or_chargeback > 0
+
+/*clientes que tiveram desconto/ofertas*/
+select costumerId AS 'Código do Cliente', 
+	   discount_and_offer AS 'Valor do estorno' from tb_order_details
+where discount_and_offer NOT LIKE '%None%'
+
+
+/*Quantidade de novos clientes em no mês de fevereiro*/
+select count(costumerId) AS 'Quantidade de novos clientes'from tb_order_details
+where discount_and_offer LIKE '%New User%' AND datepart(mm, order_date_time) = '02'
