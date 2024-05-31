@@ -13,7 +13,7 @@ Por fim, o banco de dados foi conectado à ferramenta Power BI para que as infor
 1. Clone esse projeto;
 2. Abra a pasta de "SQL Server" e abra o arquivo "Food_and_Delivery.sql" e rode o script;
 3. Acessa a pasta "Alteryx", abra o arquivo "Food_and_Delivery.yxmd", aponte os caminhos corretos de entrada (Food_orders_new_delhi.csv) e saída dos dados (o banco de dados SQL);
-4. No arquivo do Power BI (food_and_delivery.pbix), como fonte de dados, faça conexão direta com o banco de dados ou utiliza o arquivo "food_and_delivery.xlsx" na pasta "Excel".
+4. No arquivo do Power BI (food_and_delivery.pbix), como fonte de dados, faça conexão direta com o banco de dados ou utilize o arquivo "food_and_delivery.xlsx" na pasta "Excel".
 
 ## Ficou em dúvidas sobre a modelagem de dados?
 Na pasta de documentos, encontrá-se a parte de documentação do projeto: um MER e dicionário de dados.
