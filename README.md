@@ -1,8 +1,8 @@
 # Data Analytics: Food & Deliver
+--
 ## Processo de análise de dados realizado em ferramentas de ETL e visualização de dados.
-
-O processo envolve: O ETL e limpeza de dados no Alteryx, transformando dados brutos em um formato utilizável; seguido da criação e manipulação do banco de dados no SQL Server, incluindo modelagem e consultas SQL; por fim, a análise e visualização no Power BI, com dashboards interativos.
-
+Inicialmente é realizado a modelagem dos dados através de um MER (Modelo Entidade Relacional), seguido da criação do banco de dados na ferramenta do Microsoft SQL Server. Adiante, é feito o processo de três fases do ETL:
+* Extract: A base de dados de <a Food Delivery Cost and Profitability href="https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitability" target="_blank">
 
 
 
