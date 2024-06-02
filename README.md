@@ -10,7 +10,7 @@ Inicialmente é realizado a modelagem dos dados através de um MER (Modelo Entid
 Por fim, o banco de dados foi conectado à ferramenta Power BI para que as informações possam ser visualizadas e analisadas através de um dashboard interativo.
 
 ## Ferramentas utilizadas
-![alt text](https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2.png | width=100)
+<img src="https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2" alt="alt text" width="65" height="65">
 
 ## Como utilizar?
 1. Clone esse projeto;
