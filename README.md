@@ -10,7 +10,11 @@ Inicialmente é realizado a modelagem dos dados através de um MER (Modelo Entid
 Por fim, o banco de dados foi conectado à ferramenta Power BI para que as informações possam ser visualizadas e analisadas através de um dashboard interativo.
 
 ## Ferramentas utilizadas
-<img src="https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2" alt="alt text" width="50" height="50">
+<img src="https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2" alt="Alteryx" width="50" height="50">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-sql-server-logo-svg-vector.svg" alt="SQL Server" width="50" height="50">
+<img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="Power BI" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="50" height="50">
+<img src="https://asset.brandfetch.io/idYImgMHFx/idSWeeYsRC.png" alt="Bizagi" width="50" height="50">
 
 ## Como utilizar?
 1. Clone esse projeto;
