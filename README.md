@@ -14,7 +14,6 @@ Por fim, o banco de dados foi conectado à ferramenta Power BI para que as infor
 * SQL Server
 * Power BI
 * Excel
-* Bizagi
 
 ## Como utilizar?
 1. Clone esse projeto;
@@ -26,7 +25,7 @@ Por fim, o banco de dados foi conectado à ferramenta Power BI para que as infor
 ![alt text](Dashboard.jpg)
 
 ## Ficou em dúvidas sobre a modelagem de dados?
-Na pasta "documentos", encontra-se a parte de documentação do projeto: MER e dicionário de dados.
+Na pasta "documentação", encontra-se a parte de documentação do projeto: MER e dicionário de dados.
 
 
 
